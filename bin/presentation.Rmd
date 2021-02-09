@@ -1,31 +1,35 @@
 ---
-title: "Presentation Ninja"
-subtitle: "&#x2694;&#xFE0F; xaringan +<br/>&#x1F60E; xaringanthemer"  
-author: 
-  - "Yihui Xie"
-  - "Garrick Aden-Buie"
-date: '`r Sys.Date()`'
+title: "Introduce Yourself Online"
+subtitle: "A workshop @ rstudio::global(2021)"
+author: Dr. Alison Presmanes Hill
+date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
+    css: ["default", "css/grayscale.css", "css/fonts.css"]
+    seal: false 
     lib_dir: libs
-    css: xaringan-themer.css
     nature:
-      highlightStyle: github
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+      highlightStyle: solarized-light
+      highlightLanguage: ["r", "css", "yaml"]
       highlightLines: true
       countIncrementalSlides: false
+      ratio: "16:9"
 ---
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(collapse = TRUE,
+                      fig.retina = 3)
+library(xaringanExtra)
 ```
 
-```{r xaringan-themer, include=FALSE, warning=FALSE}
-library(xaringanthemer)
-style_duo_accent(
-  primary_color = "#1381B0",
-  secondary_color = "#FF961C",
-  inverse_header_color = "#FFFFFF"
-)
+```{r share-again, echo=FALSE}
+xaringanExtra::use_share_again()
 ```
 
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
