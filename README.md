@@ -1,4 +1,4 @@
-# Machine Learning in Computational Biology and Medical Research
+# An Open Science Approach to Machine Learning in Medical and biological Research
 
 ### This is the script for a talk I'll give in Saudi Data Community
 
