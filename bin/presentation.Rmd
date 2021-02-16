@@ -48,7 +48,24 @@ background-color: #ffffff
 ---
 class: inverse, center, middle
 
-# The Application of ML in Biological and Medical Reserach
+# The slides will be available online, recording will be supllemneted with captions. 
+
+---
+class: left
+
+# A little bit about me!
+
+- A computational biologist affiliated to the University of Liverpool.
+- Founder of RLadies Chapter in Saudi Arabia (Dammam).
+- Member in the R Weekly team.
+- Member of several community advocate to Open Science including the turing way.
+- Working on establishing an Open Science community in Saudi Arabia.
+
+---
+
+class: inverse, center, middle
+
+# The Applications of ML in Biological and Medical Reserach
 
 ---
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
@@ -61,8 +78,6 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 class: center, middle
 
 # xaringan
-
-### /ʃæ.'riŋ.ɡæn/
 
 ---
 class: inverse, center, middle
