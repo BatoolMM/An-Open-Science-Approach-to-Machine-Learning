@@ -175,4 +175,6 @@ class: inverse, center, middle
 
 ---
 
+background-image: url(figs/reproducibility-circle.jpeg)
 
+----
