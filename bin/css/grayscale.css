@@ -409,7 +409,11 @@ hr {
 
 .bg_karl::before {    
       content: "";
-      background-image: url('figs/dan-frontpage.jpg');
-      opacity: 0.5;
+      background-image: url('figs/landing.jpg');
+      opacity: 0.4;
       z-index: -1;
+}
+
+.opacity {
+      opacity: 0.5;
 }
