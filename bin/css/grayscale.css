@@ -401,3 +401,15 @@ h4 {
 hr {
   color: #023d4d80;
 }
+
+.bg_karl {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_karl::before {    
+      content: "";
+      background-image: url('figs/dan-frontpage.jpg');
+      opacity: 0.5;
+      z-index: -1;
+}
