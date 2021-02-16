@@ -53,12 +53,13 @@ class: left
 - A computational biologist affiliated to the University of Liverpool.
 - Founder of RLadies Chapter in Saudi Arabia (Dammam).
 - Member in the R Weekly team.
+- Member in MiR accessibility committe.
 - Member of several communities which advocate to Open Science including the turing way.
 - Working on establishing an Open Science community in Saudi Arabia.
 
 # Aknowledgment
 
-- Allison slides
+- Allison ..
 - ...
 
 
@@ -102,20 +103,30 @@ Algorithms includes Logistic Regression, Random Forest, LMT, Random Subspace.]
 
 ---
 
+class: inverse, center, middle
+
+# Solving the sequence is not enough!
+We need to know the structure and function of the protein!
+
+---
+
 class: center, middle
 
 background-image: url(figs/Sequence-to-function-relationship-A-Structure-function.png)
 background-size: contain
-background-position: 50% 40%
+background-position: 50% 25%
 background-size: 80%
 background-color: #ffffff
 
 --
 
 class: center, bottom
-.bottom[In order to predict the function from the structure, scientists uses different algorithms.]
+.bottom[
+### How can we predict function from structure?
+In order to predict the function from the structure, scientists uses different approaches including machine learning (ML) and deep learning algorithms.]
 
 ---
+
 class: center, middle
 
 background-image: url(figs/SARS-CoV-2-illo-scaled.jpeg)
@@ -127,8 +138,36 @@ background-color: #ffffff
 ---
 
 class: inverse, center, middle
+## Why not only Rely on Experemtal Methods?
 
-# What's the problem?
+---
+
+class: center, middle
+
+background-image: url(figs/growthOfDatabases.png)
+background-size: contain
+background-position: 50% 10%
+background-size: 55%
+background-color: #ffffff
+
+--
+
+class: left, bottom
+
+.bottom[ 
+Because of the growing gap between the newly-sequenced  and characterized sequences in the genome databases, computational methods in gene functional annotation are indispensable. Moreover, given the drop in the cost of the genome sequencing techniques, this gap is only destined to grow.]
+
+---
+
+class: inverse, center, middle
+
+# Biology has become a highly data intensive science, dependent on complex, computational, and statistical methods!
+
+---
+
+class: inverse, center, middle
+
+## How can we make these methods available and accessible for researchers, while ensuring that scientific results remain reproducible?
 
 ---
 
