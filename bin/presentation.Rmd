@@ -32,21 +32,20 @@ library(xaringan)
 xaringanExtra::use_share_again()
 ```
 
-class: title-slide, center, middle, reverse
+class: title-slide, center, top
+background-image: url(figs/landing2.png)
+background-size: contain
+background-position: bottom
+background-size: 90%
 
-# `r rmarkdown::metadata$title`
 
-## `r rmarkdown::metadata$subtitle`
+#### `r rmarkdown::metadata$title`
 
-### `r rmarkdown::metadata$author`
-
----
-class: inverse, center, middle
-
-# The slides will be available online, recording will be supplemented with captions. 
+#### `r rmarkdown::metadata$author`
 
 ---
-class: left
+
+class: left, inverse
 
 # A little bit about me!
 
@@ -67,7 +66,7 @@ class: left
 
 class: inverse, center, middle
 
-# What is the the Applications of ML in Biomedical Reserach
+# What is the the Applications of ML in Biomedical Reserach ?
 
 --
 
@@ -175,8 +174,59 @@ class: inverse, center, middle
 
 ---
 
+class: center, middle
+
 background-image: url(figs/reproducibility-circle2.png)
 background-size: 90%
 background-color: #f3f3f3
 
-----
+---
+
+class: inverse, center, middle
+
+# How to overcome this challenge and improve the scientific research?
+
+---
+
+class: center, middle
+
+## Open Science Communities around the World:
+
+---
+
+class: center, middle
+
+## Open Science Community in Saudi Arabia:
+### vision 2030
+### Open Life Science 
+### Anelda , Paula , Batool (photos)
+#### Join us
+
+---
+
+class: center, middle
+
+## How to start your first step?
+# The turing way
+
+---
+
+## Sarah Workshop (Free)
+
+---
+
+class: center, middle
+
+## How to contribute to the turing way
+
+---
+
+class: center, middle
+
+## You are not sure how to programme or add new chapter
+## Review Arabic READE.md
+## There are first-time 
+## Help in translation of the book to Arabic
+
+---
+
