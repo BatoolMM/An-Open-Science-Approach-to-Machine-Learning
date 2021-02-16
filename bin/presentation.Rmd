@@ -67,7 +67,11 @@ class: left
 
 class: inverse, center, middle
 
-# The Applications of ML in Biomedical Reserach
+# What is the the Applications of ML in Biomedical Reserach
+
+--
+
+## How complex ?
 
 ---
 
@@ -138,7 +142,7 @@ background-color: #ffffff
 ---
 
 class: inverse, center, middle
-## Why not only Rely on Experemtal Methods?
+## Why not only rely on Experemtal Methods?
 
 ---
 
@@ -167,7 +171,8 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 
-## How can we make these methods available and accessible for researchers, while ensuring that scientific results remain reproducible?
+# So, how can we make these methods available and accessible for researchers, while ensuring that scientific results remain reproducible?
 
 ---
+
 
