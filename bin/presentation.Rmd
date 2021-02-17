@@ -51,15 +51,16 @@ class: left, inverse
 
 - A computational biologist affiliated to the University of Liverpool.
 - Founder of RLadies Chapter in Saudi Arabia (Dammam).
-- Member in the R Weekly team.
+- A curator in the R Weekly team.
 - Member in MiR accessibility committe.
-- Member of several communities which advocate to Open Science including the turing way.
+- Member in the turing way community.
 - Working on establishing an Open Science community in Saudi Arabia.
 
 # Aknowledgment
 
 - Allison ..
-- ...
+- Anelda Van der
+- The Turing Way
 
 
 ---
@@ -251,7 +252,7 @@ class: inverse, center, middle
 
 ---
 
-# Version Control in the Old Days ..
+#### Version Control in the Old Days ..
 
 .pull-left[
 <img src="figs/version-control1.png" width = 60%>]
@@ -261,7 +262,7 @@ class: inverse, center, middle
 
 ---
 
-# Real Version Control (including backup)
+#### Real Version Control (including backup)
 
 <img src="figs/github-vc.jpg" width = 99% center>
 
@@ -275,10 +276,6 @@ class: center, middle, inverse
 
 ## Databases have been created that are completely open access, such as the Open COVID Pledge.
 
---
-
-## Other journals or platforms that were already open access are speeding up their peer-review processes by prioritizing access to data.
-
 ---
 
 class: center, middle, inverse
@@ -287,7 +284,7 @@ class: center, middle, inverse
 
 --
 
-## There are Open Science Communities in Netherlands, Sweden, Germany, UK and others
+## There is a network of Open Science Communities in Netherlands, Sweden, Germany, UK and others
 
 ---
 
@@ -319,7 +316,8 @@ Paula Moraga, Assistant Professor in Statistics for Public Health
 (KAUST)
 ]
 .column[
-Join us
+
+I'll deliver a workshop titled "Collaborating on Open Data Science Projects" as part of the Datathon for WiDS2021 at the 24th of Feb.
 ]
 
 ---
@@ -345,22 +343,84 @@ background-color: #ffffff
 
 ---
 
-#### Sarah Workshop (Free)
+class: center, middle
+
+<img src="figs/alan-turing-ins.png" width= 60%>
+
+---
+
+class: center, middle, inverse
+.pull-left[
+## Kirstie Whitaker, Project Lead
+<img src="figs/kristie.jpg" width= 70%>
+]
+.pull-right[
+## Malvika Sharan, Community Manager
+<img src="figs/malvika.jpg" width= 80%>
+]
+
+---
+
+class: center, middle, inverse
+# What is the turing way?
+
+---
+class: center, middle
+<img src="figs/turing-way-com.jpg" width= 140%>
+
+---
+
+<img src="figs/t3.jpg" width= 140%>
+
+---
+
+background-color: #2b9686
+<img src="figs/t2.jpg" width= 100%>
+
+---
+
+background-color: black
+<img src="figs/t4.jpg" width= 170%>
+
+---
+
+class: center, middle, inverse
+## Book Dash November 2020
+<img src="figs/book-dash.png" width= 50%>
 
 ---
 
 class: center, middle
+## Review README.md Arabic translation
+<img src="figs/book-dash.png" width= 50%>
 
-## How to contribute to the turing way
+---
+
+class: center, middle, inverse
+<img src="figs/t1.jpg" width= 140%>
 
 ---
 
 class: center, middle
+## Upcoming Workshop
+Register for the free workshop '[Boost your research reproducibility with Binder](https://www.software.ac.uk/news/spaces-available-turing-way-workshop-boost-your-research-reproducibility-binder)' run by Sarah Gibson from the Turing Way as part of our Research Software Camp on research accessibility.
 
-## You are not sure how to programme or add new chapter
-## Review Arabic READE.md
-## There are first-time 
-## Help in translation of the book to Arabic
+<img src="figs/sarah.png">
 
 ---
 
+class:  inverse
+
+## Resources: 
+- 
+- 
+
+---
+
+class:  center, middle, inverse
+
+# Thank you so much!
+
+## Twitter: @batool664
+
+## batool@liverpool.ac.uk
