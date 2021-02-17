@@ -261,25 +261,72 @@ class: inverse, center, middle
 
 ---
 
-# Real Version Control (including backups).
+# Real Version Control (including backup)
 
-class: center, bottom
-background-image: url(figs/github-vc.jpg)
-background-size: contain
-background-size: 70%
-background-color: #ffffff
+<img src="figs/github-vc.jpg" width = 99% center>
 
 ---
 
 class: center, middle, inverse
 
-## Open Science Communities around the World:
+## In the panademic, some publishers have “opened” their journals to make certain articles freely available.
 
-## Open Science Community in Saudi Arabia:
-### vision 2030
-### Open Life Science 
-### Anelda , Paula , Batool (photos)
-#### Join us
+--
+
+## Databases have been created that are completely open access, such as the Open COVID Pledge.
+
+--
+
+## Other journals or platforms that were already open access are speeding up their peer-review processes by prioritizing access to data.
+
+---
+
+class: center, middle, inverse
+
+## UNESCO is launching international consultations aimed at developing a Recommendation on Open Science for adoption by member states in 2021
+
+--
+
+## There are Open Science Communities in Netherlands, Sweden, Germany, UK and others
+
+---
+
+class: center, left, inverse
+
+## In line with vision 2030, we are staring an Open Science Community in Saudi Arabia.
+## It's created and developed with the help of the "Open Life Sciences"
+<img src="figs/open-lif-sci-logo.jpeg">
+
+Open Life Sciences (OLS3) program helps individuals and stakeholders in research to become Open Science ambassadors.
+
+---
+class: center, left, inverse
+
+We want to provide a place where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia.  
+
+.column[
+<img src="figs/profile.jpeg" width= 95%>
+Batool Almarzouq
+The University of Liverpool
+]
+.column[
+<img src="figs/anelda.jpeg" width= 95%>
+Founder and director of Talarify, Mentor OLS3
+]
+.column[
+<img src="figs/paula-moraga.jpeg" width= 95%>
+Paula Moraga, Assistant Professor in Statistics for Public Health
+(KAUST)
+]
+.column[
+Join us
+]
+
+---
+
+class: center, middle, inverse
+
+## How I started learning about reproducibility and Open Science?
 
 ---
 
