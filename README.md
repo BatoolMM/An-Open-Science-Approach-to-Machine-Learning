@@ -1,11 +1,12 @@
-# An Open Science Approach to Machine Learning in Medical and biological Research
+# An Open Science Approach to Machine Learning in Biomedical Research
 
 ### This is the script for a talk I'll give in Saudi Data Community
 
-**Part 1:** Applications of machine learning in life sciences (20 minutes)
-Break (5 minutes)
+**Part 1:** Applications of Machine Learning (ML) in Biomedical Reserach
 
-**Part 2:** Open science and the replication crisis (10 minutes)
+**Part 2:** Open Science and the Replication Crisis
 
-**Part 3:** The Turing Way: A step towards collaborative culture and reproducible data science (20 minutes)
+**Part 3:** The Turing Way: A step towards collaborative culture and reproducible data science
+
+URL: https://saudi-data-community.netlify.app/#43
 
