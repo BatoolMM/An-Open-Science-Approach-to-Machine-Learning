@@ -27,10 +27,16 @@ h3 {
   font-size: 1.3em !important;
 }
 
-h4, h5, h6 {
+h5, h6 {
   font-family: 'Commissioner', sans-serif;
   font-weight: 400;
   color: #003366;
+}
+
+h4 {
+  font-family: 'Commissioner', sans-serif;
+  font-weight: 400;
+  color: #121417;
 }
 
 .remark-code,
