@@ -205,13 +205,11 @@ class: inverse, center, middle
 
 # How can we overcome the reproducibility crisis?
 
---
+---
 
-### OPEN ACCESS
+class: inverse, center, middle
 
---
-
-### OPEN DATA/FAIR DATA
+# How can you improve the reproducibility of your data science project?
 
 --
 
@@ -236,6 +234,14 @@ class: inverse, center, middle
 --
 
 ### DOCUMENTATION
+
+--
+
+### OPEN DATA/FAIR DATA
+
+--
+
+### OPEN ACCESS
 
 ---
 
