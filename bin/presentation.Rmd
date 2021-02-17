@@ -178,7 +178,7 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 
-## Is it reproducible?
+## What is the percentage of reproducible research?
 
 ---
 
@@ -193,6 +193,17 @@ background-color: #f3f3f3
 class: inverse, center, middle
 
 # How to overcome this challenge and improve the scientific research?
+
+---
+
+class: center, bottom
+background-image: url(figs/Fair-principles.jpg)
+background-size: contain
+background-size: 70%
+background-color: #ffffff
+
+class: left, bottom
+.footnote[.red.bold[*] The Turing Way project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3332807]
 
 ---
 
