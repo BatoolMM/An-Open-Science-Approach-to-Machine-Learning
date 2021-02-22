@@ -1,7 +1,7 @@
 ---
 title: "An Open Science Approach to Machine Learning in Biomedical Research"
 subtitle: "Talk @ Saudi Data Community"
-author: Dr. Batool Almarzouq
+author: Batool Almarzouq
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
