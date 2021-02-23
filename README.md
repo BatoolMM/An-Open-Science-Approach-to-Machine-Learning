@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/337219292.svg)](https://zenodo.org/badge/latestdoi/337219292)
+
 # An Open Science Approach to Machine Learning in Biomedical Research
 
 ### This is the script for a talk I'll give in Saudi Data Community
