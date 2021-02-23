@@ -8,5 +8,5 @@
 
 **Part 3:** The Turing Way: A step towards collaborative culture and reproducible data science
 
-URL: https://saudi-data-community.netlify.app/#43
+URL: https://saudi-data-community.netlify.app/#1
 
