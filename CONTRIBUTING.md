@@ -14,7 +14,7 @@ or a [pull request](https://github.com/Open-Science-Community-Saudi-Arabia/An-Op
 
  ```bash
  
- git clone https://github.com/Open-Science-Community-Saudi-Arabia/An-Open-Science-Approach-to-Machine-Learning.git
+ git clone https://github.com/<your-local-repo>/An-Open-Science-Approach-to-Machine-Learning.git
  
  ```
 4. Sync the fork, to avoid merge conflicts. 
